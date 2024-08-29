@@ -35,7 +35,7 @@ Fall 2024 Showcase
      - VEDA: NASA's Visualization, Exploration and Data Analysis Project
    * - 2024-11-13 1PM EST
      - Deepak Cherian
-     - flox: optimizing parallel groupby for everyone
+     - flox: GroupBy, now with smarts!
 
 Winter/Spring 2024 Showcase
 ------------------------------------------------------
