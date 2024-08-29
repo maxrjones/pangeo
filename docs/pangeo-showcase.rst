@@ -15,6 +15,28 @@ available on the `Pangeo YouTube Channel <https://youtube.com/playlist?list=PLuQ
 
 * **Conferencing**:   `Zoom <https://numfocus-org.zoom.us/j/83234473026?pwd=mgM3uAuru1AE1aFPlRjW2dAAAyo8IY.1>`_
 
+Fall 2024 Showcase
+------------------------------------------------------
+
+.. list-table::
+   :widths: 15 25 60
+   :header-rows: 1
+   :align: left
+
+   * - Date
+     - Speaker
+     - Title
+
+   * - 2024-10-09 4PM EDT
+     - Akshay Agrawal
+     - marimo: a reactive notebook for Python that lets you make apps
+   * - 2024-11-06 4PM EST
+     - Aimee Barciauskas
+     - VEDA: NASA's Visualization, Exploration and Data Analysis Project
+   * - 2024-11-13 1PM EST
+     - Deepak Cherian
+     - flox: optimizing parallel groupby for everyone
+
 Winter/Spring 2024 Showcase
 ------------------------------------------------------
 
